@@ -1,0 +1,4 @@
+org.springframework.boot.autoconfigure.EnableAutoConfiguration=\
+  com.aqualen.kafkastreamstarter.config.KafkaConfig, \
+  com.aqualen.kafkastreamstarter.config.KafkaStreamsConfig, \
+  com.aqualen.kafkastreamstarter.config.KafkaStreamsStarterConfig
